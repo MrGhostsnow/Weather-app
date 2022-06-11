@@ -31,7 +31,7 @@ setInterval(() => {
 
     dateEl.innerHTML = days[day] + ', ' + date+ ' '+ months[month]
 
-    if(hour > 6 && ampm =="PM"){
+    if(hour > 6 && ampm =="AM"){
     fundo.style.backgroundImage = "url(https://images.unsplash.com/photo-1611416517780-eff3a13b0359?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1349&q=80)"
     }else {
         fundo.style.backgroundImage = "url(https://images.unsplash.com/photo-1654423625348-b031628eb38d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80);" 
