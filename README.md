@@ -10,7 +10,6 @@ O objetivo deste projeto foi desenvolver um aplicativo web responsivo que consom
 * JavaScript
 * HTML
 * CSS
-* Jest
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
